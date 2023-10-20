@@ -1,6 +1,6 @@
 <img src="./docs/media/examples_logo.png" width="750"/>
 
-Usage examples and use cases for library https://github.com/red5ai/estaty
+Usage examples and use cases for library [estaty](https://github.com/red5ai/estaty)
 
 This repository has been prepared primarily to prepare examples of how to run the library for publications (reproducibility first). 
 

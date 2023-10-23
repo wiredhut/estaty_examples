@@ -6,6 +6,7 @@ authors = ["Dreamlone <mik_sar@mail.ru>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+estaty = "0.1.0"
 
 [tool.poetry.dev-dependencies]
 

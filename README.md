@@ -15,7 +15,7 @@ pip install estaty==0.1.0
 or (if you use poetry)
 
 ```
-poetry install estaty==0.1.0
+poetry add estaty==0.1.0
 ```
 
 ### Content 
